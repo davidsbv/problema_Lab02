@@ -1,2 +1,3 @@
 Primer texto en archivo5.
+Añado segundo texto y compruebo que no se sube archivoParaIgnorar.txt
 
